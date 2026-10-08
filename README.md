@@ -134,7 +134,7 @@ Projects will be added as I progress through the lab.
 
 | Project | Area | Status |
 |---|---|---|
-| Network Fundamentals Lab | Networking | 🔄 Planned |
+| [Network Fundamentals Lab](projects/01-network-fundamentals/README.md) | Networking | 🟡 Preparation |
 | Linux Administration Lab | Linux | 🔄 Planned |
 | Windows Server Lab | Systems | 🔄 Planned |
 | Active Directory Lab | Identity & Security | 🔄 Planned |
