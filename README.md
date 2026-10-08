@@ -147,6 +147,8 @@ Projects will be added as I progress through the lab.
 
 ## 📝 Documentation
 
+A reusable [lab documentation and LinkedIn publishing playbook](docs/README.md) keeps every project evidence-led, safe to share, and portfolio-ready.
+
 Every major project will document:
 
 1. Objective
